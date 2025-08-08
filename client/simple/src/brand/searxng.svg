@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="889" height="152" viewBox="0 0 889 152">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 138.889px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #487cff;
+        text-anchor: middle;
+        font-family: HUNoodles;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 27.778px;
+      }
+    </style>
+  </defs>
+  <text id="ruserve" class="cls-1" x="446.25" y="116.25"><tspan x="446.25">ruserve</tspan></text>
+  <text id="powered_by_SearXNG" data-name="powered by SearXNG" class="cls-2" x="591.75" y="145.25"><tspan x="591.75">powered by SearXNG</tspan></text>
+</svg>
